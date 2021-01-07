@@ -12,4 +12,5 @@ if ttype == 'c':
     cttemp = int(cstemp) + 32
     print(cttemp)
 
-    input('press Enter to exit')
+
+ input('press Enter to exit')
