@@ -13,4 +13,4 @@ if ttype == 'c':
     print(cttemp)
 
 
- input('press Enter to exit')
+input('press Enter to exit')
